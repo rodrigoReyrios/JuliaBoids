@@ -1,0 +1,2 @@
+# Rodrigo's Implementation of Boids Dance with Friends Sim
+This is some script I wrote heavily based on [this](https://www.youtube.com/watch?v=8gS6wejsGsY) talk by Jesse Bettencourt. Couldn't find his github page so I just touk the concepts from the video and filled in all the little details myself.
